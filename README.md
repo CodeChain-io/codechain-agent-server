@@ -1,3 +1,5 @@
+This project is moved to https://github.com/CodeChain-io/codechain-dashboard
+
 CodeChain Agent Hub
 ====================
 
